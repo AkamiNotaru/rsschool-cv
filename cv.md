@@ -21,7 +21,7 @@ function sum(a, b) {
 <br>  return a + b;
 <br>}
 
-<br>let result = sum(1, 2);
+let result = sum(1, 2);
 <br>alert( result );
 
 # Experience
