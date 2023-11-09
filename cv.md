@@ -29,7 +29,7 @@ let result = sum(1, 2);
 # Education
 University: Siberian State University of Physical Culture and Sports, Omsk
 
-# Courses:
+# Courses
 HTML, CSS, JavaScript - Code Basics
 
 # English
